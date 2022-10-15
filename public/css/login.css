@@ -1,0 +1,32 @@
+.login-form{
+    width: 100%;
+    height: auto;
+    padding: 10px 100px;
+}
+
+.login-input-label {
+    font-size: 20px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+
+.login-register-text{
+    margin: 50px 10px;
+    text-align: right;
+    font-weight: 300;
+}
+
+.login-register-text a{
+    text-decoration-line: underline;
+}
+
+.login-second-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.login-forgot-password{
+    font-size: 25px;
+    font-weight: 300;
+    text-decoration-line: underline;
+}
